@@ -39,5 +39,6 @@ int main(){
     cin>>key;
 
     cout<<binarySearch(array,n,key)<<endl;
+    
     return 0;
 }
