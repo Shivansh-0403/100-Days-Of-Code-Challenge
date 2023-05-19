@@ -33,5 +33,5 @@ public:
             head->next = temp;
         }
         return ans->next;
-    }
+    } 
 };
